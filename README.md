@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Vikas!</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **REACT**
 
 - 📝 I update my codes in [https://vikasganesan.blogspot.com/](https://vikasganesan.blogspot.com/)
 
